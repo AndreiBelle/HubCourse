@@ -7,25 +7,25 @@ class CursosPage extends StatelessWidget {
   final List<Map<String, String>> _cursos = const [
     {
       'nome': 'Análise e Des. de Sistemas',
-      'imagem': 'assets/images/analise.png',
+      'imagem': 'assets/images/analise.jpg',
       'duracao': '2.5 anos',
       'descricao': 'Projeta, implementa e mantém sistemas computacionais e soluções de software para empresas.',
     },
     {
       'nome': 'Engenharia de Software',
-      'imagem': 'assets/images/engenharia.png',
+      'imagem': 'assets/images/engenharia.jpg',
       'duracao': '4 anos',
       'descricao': 'Desenvolvimento de software de alta qualidade aplicando arquiteturas, processos e testes rigorosos.',
     },
     {
       'nome': 'Ciência da Computação',
-      'imagem': 'assets/images/ciencias-comput.png',
+      'imagem': 'assets/images/ciencias-comput.jpg',
       'duracao': '4 anos',
       'descricao': 'Estudo aprofundado de algoritmos, lógica, inteligência artificial e fundamentos da computação.',
     },
     {
       'nome': 'Sistemas para Internet',
-      'imagem': 'assets/images/internet.png',
+      'imagem': 'assets/images/internet.jpg',
       'duracao': '3 anos',
       'descricao': 'Foco no desenvolvimento de aplicações web, APIs, serviços em nuvem e ecossistemas mobile.',
     }
